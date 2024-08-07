@@ -1,14 +1,13 @@
 /**
-* Template Name: Moderna
-* Template URL: https://bootstrapmade.com/free-bootstrap-template-corporate-moderna/
-* Updated: Aug 06 2024 with Bootstrap v5.3.3
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
+* Template Name: Tales Safris Kenya
+* Updated: Aug 06 2024 
+* Author: Benjamin Mutava
+* License: MIT
 */
 
 /*--------------------------------------------------------------
 # Font & Color Variables
-# Help: https://bootstrapmade.com/color-system/
+
 --------------------------------------------------------------*/
 /* Fonts */
 :root {
@@ -21,8 +20,8 @@
   :root { 
     --background-color: #ffffff; /* Background color for the entire website, including individual sections */
     --default-color: #555555; /* Default color used for the majority of the text content across the entire website */
-    --heading-color: #20561e; /* Color for headings, subheadings and title throughout the website */
-    --accent-color: #68afc4; /* Accent color that represents your brand on the website. It's used for buttons, links, and other elements that need to stand out */
+    --heading-color: #268d7f; /* Color for headings, subheadings and title throughout the website */
+    --accent-color: #68c4b8; /* Accent color that represents your brand on the website. It's used for buttons, links, and other elements that need to stand out */
     --surface-color: #ffffff; /* The surface color is used as a background of boxed elements within sections, such as cards, icon boxes, or other elements that require a visual separation from the global background. */
     --contrast-color: #ffffff; /* Contrast color for text, ensuring readability against backgrounds of accent, heading, or default colors. */
   }
@@ -251,7 +250,7 @@
   /* Global Header on Scroll
   ------------------------------*/
   .scrolled .header {
-    --background-color: #1e4356;
+    --background-color: #1e5653;
   }
   
   /*--------------------------------------------------------------
